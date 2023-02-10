@@ -19,6 +19,6 @@
   "dependencies": {
     "pdf-poppler": "^0.2.1",
     "pdf2json": "^1.1.8",
-    "tesseract.js": "^1.0.19"
+    "tesseract.js": "^4.0.2"
   }
 }
